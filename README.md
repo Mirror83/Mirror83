@@ -51,7 +51,7 @@ Good thing you don't need to wear a tie in most careers in tech (a big reason wh
 
 ## How to reach me
   - Email - glenochieng045@gmail.com
-  - [LinkedIn](www.linkedin.com/in/glen-omondi-22b57a257)
+  - [LinkedIn](https://www.linkedin.com/in/glen-omondi-22b57a257)
   - [Frontend Mentor](https://www.frontendmentor.io/profile/Mirror83)
   - [X - Formerly Twitter](https://twitter.com/glen_ochieng_)
 
