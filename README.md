@@ -50,7 +50,7 @@ Wearing a tie can reduce blood flow to the brain by 7.5 percent. A [study in 201
 Good thing you don't need to wear a tie in most careers in tech (a big reason why I chose to _be_ in tech 🤣).
 
 ## How to reach me
-  - [Email](glenochieng045@gmail.com)
+  - Email - glenochieng045@gmail.com
   - [LinkedIn](www.linkedin.com/in/glen-omondi-22b57a257)
   - [Frontend Mentor](https://www.frontendmentor.io/profile/Mirror83)
   - [X - Formerly Twitter](https://twitter.com/glen_ochieng_)
