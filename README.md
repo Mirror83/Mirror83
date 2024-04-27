@@ -47,7 +47,7 @@ The technologies that I've been using mostly in recent times are:
 ## ⚡ Fun fact
 Wearing a tie can reduce blood flow to the brain by 7.5 percent. A [study in 2018](https://link.springer.com/article/10.1007/s00234-018-2048-7) found that wearing a necktie can reduce the blood flow to your brain by up to 7.5 percent, which can make you feel dizzy, and nauseous, and cause headaches. They can also increase the pressure in your eyes if on too tight and are great at carrying germs.
 
-Good thing you don't need to wear a tie in most careers in tech (a big reason why chose to _be_ in tech 🤣).
+Good thing you don't need to wear a tie in most careers in tech (a big reason why I chose to _be_ in tech 🤣).
 
 ## How to reach me
   - [Email](glenochieng045@gmail.com)
