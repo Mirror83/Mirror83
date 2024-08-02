@@ -34,7 +34,7 @@ The technologies that I've been using mostly in recent times are:
 
 ### Currently learning
 - UI/UX Design (to sharpen my design acumen)
-- Dart and Flutter (Will possibly learn [Flame](https://flame-engine.org/), but for now it's for a project)
+- Dart and Flutter
 - Deep learning with Tensorflow
 - Django and DRF (Django Rest Framework)
 - NextJS
