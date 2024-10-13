@@ -32,13 +32,6 @@ The technologies that I've been using mostly in recent times are:
 - Microsoft Azure
 - Figma
 
-### Currently learning
-- UI/UX Design (to sharpen my design acumen)
-- Dart and Flutter
-- Deep learning with Tensorflow
-- Django and DRF (Django Rest Framework)
-- NextJS
-
 ## Additional highlights
 - Good at object-oriented design
 - Excited about learning new technologies
