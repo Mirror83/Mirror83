@@ -4,7 +4,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=mirror83&show_icons=true)
 
 ## Technologies
-### Active Languages & Technologies
+### Active languages & technologies
 - Python
 - NextJS
 - Kotlin
