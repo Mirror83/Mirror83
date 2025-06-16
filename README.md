@@ -1,13 +1,16 @@
-### Hi there, I'm Glen. 👋
+# ようこそう！.
+
+## GitHub stuff
+![](https://github-readme-stats.vercel.app/api?username=mirror83&show_icons=true)
 
 ## Technologies
 ### Active Languages & Technologies
 - Python
 - NextJS
 - Kotlin
+- Godot
 
-## Currently learning
-- Remix ([React Router v7](https://remix.run/blog/incremental-path-to-react-19))
+### Currently learning
 - Django and Django REST Framework
 
 ## Additional highlights
