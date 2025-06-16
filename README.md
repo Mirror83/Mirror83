@@ -8,7 +8,7 @@
 - Python
 - NextJS
 - Kotlin
-- Godot
+<!--- Godot -->
 
 ### Currently learning
 - Django and Django REST Framework
