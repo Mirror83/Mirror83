@@ -1,4 +1,4 @@
-# ようこそう！.
+# ようこそう
 My name is Glen Ochieng (he/him). I'm a software developer currently based in Nairobi, Kenya.
 - I'm currently learning backend development with Django and Django REST Framework.
 - Additionally, I'm trying to learn Test Driven Development (and game development with Godot on the side).
