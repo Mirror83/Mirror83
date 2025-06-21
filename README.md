@@ -1,8 +1,7 @@
 # ようこそう
 My name is Glen Ochieng (he/him). I'm a software developer currently based in Nairobi, Kenya.
-- I'm currently learning backend development with Django and Django REST Framework.
-- Additionally, I'm trying to learn Test Driven Development (and game development with Godot on the side).
-- I'm looking to collaborate on a game jam someday along my game dev journey, especially with an artist (I'm currently not very good at art)
+- I'm currently learning backend development with Django and Django REST Framework (and game development with Godot on the side).
+- Additionally, I'm trying to learn Test Driven Development and put it into practice.
 - Ask me about data structures and algorithms....we can find out together 😂.
 
 ## GitHub stats
