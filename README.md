@@ -1,8 +1,9 @@
 # ようこそう
 My name is Glen Ochieng (he/him). I'm a software developer currently based in Nairobi, Kenya.
-- I'm currently learning backend development with Django and Django REST Framework (and game development with Godot on the side).
-- Additionally, I'm trying to learn Test Driven Development and put it into practice.
-- Ask me about data structures and algorithms....we can find out together 😂.
+- I'm currently transitioning from frontend development with React and NextJS to backend development with Django and Django REST Framework.
+- I'm currently learning about Test-Driven Development, and how to put it into practice.
+- I've also had an on-and-off relationship with game development using different frameworks like [Unity](https://unity.com/), [Godot](https://godotengine.org/), [Pygame](https://www.pygame.org/) and [LÖve 2D](https://love2d.org/). My current mistress is Godot.
+- Ask me anything about Javascript, React, and data structures and algorithms.
 
 ## GitHub stats
 ![](https://github-readme-stats.vercel.app/api?username=mirror83&show_icons=true)
